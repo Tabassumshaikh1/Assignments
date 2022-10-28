@@ -1,0 +1,117 @@
+*{
+    margin: 0px;
+    padding: 0px;
+box-sizing: border-box;
+}
+.featured{
+    margin-top: 60px;
+}
+/* .featured ul {
+    display: flex;
+    justify-content: center;
+
+
+}
+.featured ul li{
+    cursor: pointer;
+    
+}
+.featured ul li{
+    cursor: pointer;
+    
+}
+.container{
+    display: flex;
+    margin-top:20px; 
+ 
+} */
+.row img{
+    height:150px;
+    width: 150px;;
+}
+.conta img{
+    margin: 20px;
+    height:600px;
+    width: 650px;
+    padding: 1px;
+    
+}
+.card-title{
+    padding-top: 5px;
+    padding-left: 50px;
+}
+.card-body{
+    padding-top: 5px;
+    padding-left: 50px;
+}
+.card-dot{
+    height: 25px;
+    width: 40px;
+    padding-top: -10px;
+    padding-left: 38px;
+}
+.card-circle{
+    padding-left: 30px;
+}
+.card-t{
+    padding-left: 50px;
+    color: red;
+}
+.card-p{
+    padding-left: 50px;
+  
+}
+.card-title button{
+    height:40px;
+    width:50px;
+    background-color: white;
+    margin-left: 15px;
+    border: 1px solid grey;
+}
+.card-btn{
+    padding-left: 35px;
+    padding-top: 25px;
+}
+.card-btn button{
+    
+    height:60px;
+    width:50px;
+    background-color: rgb(15, 15, 225);
+    color: white;
+    margin-left: 15px;
+    border: 1px solid grey;
+}
+.logo{
+    margin-top: 10px;
+}
+.fle-con{
+   
+    display: flex;
+    margin-top: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    justify-content: space-around;
+    /* border: 2px solid black; */
+}
+.fle{
+    /* padding-top:10px;  */
+    /* border: 2px solid black; */
+    height:190px;
+    width:190px;
+}
+.fle img{
+    height: 186px;
+    width: 186px;
+}
+.bttn{
+    margin-top: 10px;
+}
+.bttn button{
+    background-color: white;
+}
+.col{
+    border: 1px solid black;
+}
+.checked{
+    color: orange;
+}
